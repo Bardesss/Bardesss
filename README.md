@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bardesss
+- 👀 I’m interested in Bitcoin and Lightning
+- 📫 You can find me on Twitter
