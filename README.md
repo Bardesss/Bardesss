@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Bardesss
 - 👀 I’m interested in Bitcoin and Lightning
-- 📫 You can find me on Twitter
+- 📫 You can find me on Twitter: @Bardesss
+- 🟣 or nostr: npub1w4la29u3zv09r6crx5u8yxax0ffxgekzdm2egzjkjckef7xc83fs0ftxcd
